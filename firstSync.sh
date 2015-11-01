@@ -9,6 +9,12 @@
 #       git-svn
 #       git
 
+## References:
+# + http://stackoverflow.com/questions/661018/pushing-an-existing-git-repository-to-svn
+# + http://www.codeography.com/2010/03/17/howto-mirror-git-to-subversion.html
+# + 
+
+
 ## Create generic Folder
 mkdir -p ~/gitToSVN
 cd ~/gitToSVN
