@@ -1,7 +1,6 @@
 #!bin/bash
 
 #Created by ManuelLR <manloprui1@alum.us.es>
-#Last modified 01/11/2015 20:00
 
 # Script for first configure and first Update GitHub repo to SVN
 # Packages needed:
